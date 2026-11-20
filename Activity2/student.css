@@ -1,0 +1,23 @@
+.center{
+    text-align: center!important;
+}
+.card{
+    border: 3px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+    max-width: 480px;
+    margin: 40px auto;
+    padding: 20px;
+   background-color: lightgreen;
+
+}
+
+.img {
+    display: block;
+    width: 280px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+    border-radius: 380px;
+}
